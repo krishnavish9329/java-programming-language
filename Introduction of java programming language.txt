@@ -1,7 +1,9 @@
-Introduction of Java prigramming language
+Introduction of Java programming language
 
+ java is an Object oriented programming language.
  java programming language is developed by James Gosling at Sun Microsystems in early 1990s and scince then,
  It has been immensely in mobail application development, game development, big data technologies and IoT & cloud-based applications amongst others.
+ it was origanally called "Oak" by James Gosling
  
 10 reason to learn java programming language
 
