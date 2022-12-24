@@ -49,7 +49,7 @@ some feature of java
    6. Encapsulation
 
   >platform independent
-  1. A platform is the hardware or software environment in which a program runs. there are two type to platforms software-base and hardware-base, java provide software base platform.
+  1. A platform is the hardware or software environment in which a program runs. there are two type to platforms software-base and hardware-base, java provide software      base platform.
   2. it have 2 components.
     1. Runtime Envirnment
     2. Apl(application programming Interface)
