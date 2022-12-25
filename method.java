@@ -6,12 +6,12 @@ public class method {
     {
         System.out.println("hello krishna ");
     }
-    static int change(int a,int b)
+    static int change(int a,int b) //method Overloding
     {
         System.out.println(a+b);
         return 0;
     }
-    static void change(int arr[])
+    static void change(int arr[])  //method Overloding
     {
         arr[0]=20;
     }
